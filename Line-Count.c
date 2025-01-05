@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* count line in input */
+/* count line in input; version 1 */
 
 int main()
 {
